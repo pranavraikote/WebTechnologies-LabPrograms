@@ -1,0 +1,28 @@
+student
+{
+    display: block; margin-top: 10px; color: Navy;
+}
+USN
+{
+    display: block; margin-left: 10px; color: Red;
+}
+name
+{
+    display: block; margin-left: 10px; color: Brown;
+}
+college
+{
+    display: block; margin-left: 10px; color: Orange;
+}
+branch
+{
+    display: block; margin-left: 10px; color: Pink;
+}
+year
+{
+    display: block; margin-left: 10px; color: Green;
+}
+email
+{
+    display: block; margin-left: 10px; color: Blue;
+}

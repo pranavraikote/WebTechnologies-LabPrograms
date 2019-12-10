@@ -1,0 +1,36 @@
+<?xml-stylesheet type="text/css" href="Lab5.css" ?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1> STUDENTS DESCRIPTION </h1>
+    </head>
+
+    <students>
+        <student>
+            <USN>USN         :   1BY16CS062 </USN>
+            <name>NAME       :   PRANAV     </name>
+            <college>COLLEGE :   BMSIT      </college>
+            <branch>BRANCH   :   CSE        </branch>
+            <year>YEAR       :   2016       </year>
+            <email>E-MAIL    :   pranavraikote@gmail.com        </email>
+        </student>
+
+        <student>
+            <USN>USN         :   1BY16CS062   </USN>
+            <name>NAME       :   RAKSHITHA PR </name>
+            <college>COLLEGE :   BMSIT        </college>
+            <branch>BRANCH   :   CSE          </branch>
+            <year>YEAR       :   2016         </year>
+            <email>E-MAIL    :   rakshithapr@gmail.com        </email>
+        </student>
+
+        <student>
+            <USN>USN         :   1BY16CS111 </USN>
+            <name>NAME       :   MANOJ K    </name>
+            <college>COLLEGE :   BMSIT      </college>
+            <branch>BRANCH   :   CSE        </branch>
+            <year>YEAR       :   2016       </year>
+            <email>E-MAIL    :   manojkv0598@gmail.com        </email>
+        </student>
+    </students>
+</html>
