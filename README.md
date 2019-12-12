@@ -5,7 +5,7 @@ Repository for Web Technologies Laboratory Programs
 This repository is created to help students with lab programs for Web Technologies Laboratory. 
 
 # Pre-requisites
-Make sure you are running latest version of XAMMP and PHP br>
+Make sure you are running latest version of XAMMP and PHP 
 
 # Author
 Shankar R, Asst Prof, Dept of CSE, BMSIT&M
